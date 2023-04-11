@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Chatapp</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="regester">Regester</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login">Login</string>
+    <string name="Password">password</string>
+    <string name="Email">Email</string>
+
+    <string name="back_to_home">Back To Home</string>
+    <string name="ayush_pawar">Ayush Pawar</string>
+</resources>
